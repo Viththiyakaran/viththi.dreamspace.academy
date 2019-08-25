@@ -16,6 +16,12 @@
 	<link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
 	<!-- main css -->
 	<link rel="stylesheet" href="css/style.css">
+	
+	<style>
+		html {
+			  scroll-behavior: smooth;
+			}
+	</style>
 </head>
 
 <body>
