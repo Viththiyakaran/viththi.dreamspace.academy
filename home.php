@@ -8,8 +8,8 @@
 							<h3 class="text-uppercase">Hell0</h3>
 							<h2 class="text-uppercase">I am Viththiyakaran Nadarajah</h2>
 							<h6 class="text-uppercase">Software Developer & IT Trainer</h6>
+							<br>
 							<div class="d-flex align-items-center">
-								
 								<a class="primary_btn" href="https://www.linkedin.com/in/nviththiyakaran/"><span><i class="fa fa-linkedin"></span></i></a>
 							<a class="primary_btn tr-bg" href="https://github.com/Viththiyakaran"><span><i class="fa fa-github"></span></i></a>
 							</div>
