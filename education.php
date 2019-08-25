@@ -1,7 +1,7 @@
 <!--================ Start Features Area =================-->
 	<section class="features_area">
 		<div class="container">
-			<div class="row justify-content-center" id="eduction">
+			<div class="row justify-content-center" id="education">
 				<div class="col-lg-8 text-center">
 					<div class="main_title">
 						<h2>service offers </h2>
