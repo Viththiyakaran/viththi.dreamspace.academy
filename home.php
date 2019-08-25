@@ -11,7 +11,7 @@
 							<div class="d-flex align-items-center">
 								
 								<a class="primary_btn" href="https://www.linkedin.com/in/nviththiyakaran/"><span><i class="fa fa-linkedin"></span></i></a>
-							<a class="primary_btn" href="https://github.com/Viththiyakaran"><span><i class="fa fa-github"></span></i></a>
+							<a class="primary_btn tr-bg" href="https://github.com/Viththiyakaran"><span><i class="fa fa-github"></span></i></a>
 							</div>
 						</div>
 					</div>
