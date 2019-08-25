@@ -6,8 +6,8 @@
 					<div class="col-lg-7">
 						<div class="banner_content">
 							<h3 class="text-uppercase">Hell0</h3>
-							<h1 class="text-uppercase">I am Viththiyakaran Nadarajah</h1>
-							<h5 class="text-uppercase">Software Developer & IT Trainer</h5>
+							<h2 class="text-uppercase">I am Viththiyakaran Nadarajah</h2>
+							<h6 class="text-uppercase">Software Developer & IT Trainer</h6>
 							<div class="d-flex align-items-center">
 								
 								<a class="primary_btn" href="https://www.linkedin.com/in/nviththiyakaran/"><span><i class="fa fa-linkedin"></span></i></a>
