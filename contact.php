@@ -1,5 +1,5 @@
 <!--================Contact Area =================-->
-    <section class="contact_area section_gap">
+    <section class="contact_area section_gap" id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
