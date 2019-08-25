@@ -9,10 +9,9 @@
 							<h1 class="text-uppercase">I am Viththiyakaran Nadarajah</h1>
 							<h5 class="text-uppercase">Software Developer & IT Trainer</h5>
 							<div class="d-flex align-items-center">
-								<a class="primary_btn" href="#"><span>Hire Me</span></a>
-								<a class="primary_btn tr-bg" href="#"><span>Get CV</span></a>
-								<a href="https://www.linkedin.com/in/nviththiyakaran/"><i class="fa fa-linkedin"></i></a>
-							<a href="https://github.com/Viththiyakaran"><i class="fa fa-github"></i></a>
+								
+								<a class="primary_btn" href="https://www.linkedin.com/in/nviththiyakaran/"><span><i class="fa fa-linkedin"></span></i></a>
+							<a class="primary_btn" href="https://github.com/Viththiyakaran"><span><i class="fa fa-github"></span></i></a>
 							</div>
 						</div>
 					</div>
