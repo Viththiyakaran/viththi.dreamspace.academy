@@ -14,15 +14,12 @@
 							Introduce about <br>
 							myself</h2>
 						<p>
-							Whose given. Were gathered. There first subdue greater. Bearing you Whales heaven 
-							midst their. Beast creepeth. Fish days.
+							I am an IT enthusiastic specialized in JAVA Programming and an ethical hacker committed to transform my community through my keyboard. 
 						</p>
 						<p>
-							Is give may shall likeness made yielding spirit a itself together created after sea 
-							is in beast beginning signs open god you're gathering whose gathered cattle let. 
-							Creature whales fruit unto meat the life beginning all in under give two.
+							I am growing Social Entrepreneur, I focuses now on translating social problems into Social Ventures.
 						</p>
-						<a class="primary_btn" href="#"><span>Download CV</span></a>
+						<a class="primary_btn" href="CV - Viththiyakaran.pdf"><span>Download CV</span></a>
 					</div>
 				</div>
 			</div>
