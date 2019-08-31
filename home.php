@@ -17,7 +17,7 @@
 					</div>
 					<div class="col-lg-5">
 						<div class="home_right_img">
-							<img class="" src="img/banner/home-right.png" alt="">
+							<img class="" style="border-radius: 20px; width: 70%; height: 70%;"  src="img/banner/home-right.png" alt="">
 						</div>
 					</div>
 				</div>
